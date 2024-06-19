@@ -1,0 +1,18 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+}
+
+p {
+    font-size: 22px;
+    font-style: italic;
+}
+
+ul, ol {
+    font-family: 'Courier New', Courier, monospace;
+}
